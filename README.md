@@ -13,7 +13,7 @@ I am a Cloud Engineer who ensures scientific research and large systems function
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Tools
 
 * **Cloud & DevOps:** `AWS (VPC, EC2, ALB, NAT)` `Linux System Administration` `Ansible` `Bash Scripting`
 * **Data & Programming:** `Python` `R` `QGIS` `Bioinformatics`
