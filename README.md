@@ -22,7 +22,7 @@ I am a Cloud Engineer who ensures scientific research and large systems function
 
 ### 🏆 Featured Project
 
-#### [Highly Available 3-Tier Web Architecture on AWS](#) 
+#### [Highly Available 3-Tier Web Architecture on AWS](https://github.com/syswale/aws-3tier-ansible-architecture.git) 
 * **Goal:** Designed and deployed a secure, production-ready web architecture isolating application servers from the public internet.
 * **Highlights:** * Built a custom VPC with strict Public/Private Subnet isolation.
   * Secured administrative access using a Bastion Host and SSH Agent Forwarding.
